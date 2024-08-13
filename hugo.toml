@@ -1,0 +1,9 @@
+baseURL = 'https://aprendago.com.br'
+languageCode = 'pt-br'
+title = 'aprenda go'
+description = "conteúdo para aprender a linguagem de programação go"
+theme = "hugo-theme-nostyleplease"
+
+[params.author]
+  name = "biancarosa"
+  homepage = "biancarosa.com.br"
