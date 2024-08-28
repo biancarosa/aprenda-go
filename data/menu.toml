@@ -1,0 +1,62 @@
+[[entries]]
+title = "cursos"
+
+  [[entries.entries]]
+  title = "<a href='https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg'>youtube.com/@AprendaGo</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://linuxtips.io/treinamento/descomplicando-o-go'>linuxtips / descomplicando o go</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://linuxtips.io/go-essentials/'>linuxtips / go essentials</a>"
+
+[[entries]]
+title = "canais de video"
+
+  [[entries.entries]]
+  title = "<a href='https://www.youtube.com/@anthonygg_'>youtube.com/@anthonygg_</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg'>youtube.com/@AprendaGo</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://www.youtube.com/@AprendaGolang/'>youtube.com/@AprendaGolang</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://www.youtube.com/@AkhilSharmaTech'>youtube.com/@AkhilSharmaTech</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://www.youtube.com/@gopherconbrasil'>youtube.com/@gopherconbrasil</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://www.youtube.com/@mr_mux408'>youtube.com/@mr_mux408</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://www.youtube.com/@GolangDojo/videos'>youtube.com/@GolangDojo</a>"
+
+[[entries]]
+title = "podcasts"
+
+  [[entries.entries]]
+  title = "<a href='https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE'>go time</a>"
+
+[[entries]]
+title = "newsletter"
+
+  [[entries.entries]]
+  title = "<a href='https://www.asemanago.dev'>a semana go</a>, conteúdo com curadoria do Elton Minetto, outro cara fera da comunidade."
+
+
+[[entries]]
+title = "sites legais"
+
+  [[entries.entries]]
+  title = "<a href='https://gobyexample.com'>Go By Example</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://go.dev/ref/spec'>Golang Spec</a>"
+
+
+[[entries]]
+title = "github repo, contribua!"
+url = "https://github.com/biancarosa/aprenda-go"
