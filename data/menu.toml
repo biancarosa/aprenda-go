@@ -33,6 +33,9 @@ title = "canais de video"
 
   [[entries.entries]]
   title = "<a href='https://www.youtube.com/@GolangDojo/videos'>youtube.com/@GolangDojo</a>"
+ 
+ [[entries.entries]]
+  title = "<a href='https://www.youtube.com/@huncoding/videos'>youtube.com/@HunCoding/a>"
 
 [[entries]]
 title = "podcasts"
@@ -45,7 +48,6 @@ title = "newsletter"
 
   [[entries.entries]]
   title = "<a href='https://www.asemanago.dev'>a semana go</a>"
-
 
 [[entries]]
 title = "sites legais"
