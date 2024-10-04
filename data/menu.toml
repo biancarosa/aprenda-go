@@ -33,6 +33,17 @@ title = "canais de video"
 
   [[entries.entries]]
   title = "<a href='https://www.youtube.com/@GolangDojo/videos'>youtube.com/@GolangDojo</a>"
+ 
+ [[entries.entries]]
+  title = "<a href='https://www.youtube.com/@huncoding/videos'>youtube.com/@HunCoding</a>"
+
+ [[entries]]
+   title = "canal do telegram"
+   title = "<a href='https://t.me/grupoDeEstudosGolang'>Grupo estudos Golang</a>"
+
+ [[entries]]
+   title = "Discord"
+   title = "<a href='https://discord.com/invite/golang'>Discord Gophers</a>"
 
 [[entries]]
 title = "podcasts"
@@ -45,7 +56,6 @@ title = "newsletter"
 
   [[entries.entries]]
   title = "<a href='https://www.asemanago.dev'>a semana go</a>"
-
 
 [[entries]]
 title = "sites legais"
