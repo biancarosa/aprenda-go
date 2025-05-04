@@ -11,10 +11,11 @@ Aprenda Go é um agregador de links de cursos e tutoriais gratuitos de Go (Golan
 
 ### Instalação
 
-1. Clone o repositório:
+1. Clone o repositório, e inicialize os submodules:
 ```bash
 git clone https://github.com/biancarosa/aprenda-go.git
 cd aprenda-go
+git submodule update --init --recursive
 ```
 
 2. Inicie o servidor de desenvolvimento:
